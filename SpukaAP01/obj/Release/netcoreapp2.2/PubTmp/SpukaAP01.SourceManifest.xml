@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Release\netcoreapp2.2\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Release\netcoreapp2.2\PubTmp\EFSQLScripts\SpukaAp.Models.spukaContext.sql" />
+</sitemanifest>

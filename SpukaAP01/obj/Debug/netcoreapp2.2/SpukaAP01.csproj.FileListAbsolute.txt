@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\bin\Debug\netcoreapp2.2\SpukaAP01.deps.json
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\bin\Debug\netcoreapp2.2\SpukaAP01.runtimeconfig.json
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\bin\Debug\netcoreapp2.2\SpukaAP01.runtimeconfig.dev.json
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\bin\Debug\netcoreapp2.2\SpukaAP01.dll
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\bin\Debug\netcoreapp2.2\SpukaAP01.pdb
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Debug\netcoreapp2.2\SpukaAP01.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Debug\netcoreapp2.2\SpukaAP01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Debug\netcoreapp2.2\SpukaAP01.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Debug\netcoreapp2.2\SpukaAP01.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Debug\netcoreapp2.2\SpukaAP01.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Debug\netcoreapp2.2\SpukaAP01.AssemblyInfo.cs
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Debug\netcoreapp2.2\SpukaAP01.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Debug\netcoreapp2.2\SpukaAP01.dll
+C:\Users\User\source\repos\SpukaAP01\SpukaAP01\obj\Debug\netcoreapp2.2\SpukaAP01.pdb

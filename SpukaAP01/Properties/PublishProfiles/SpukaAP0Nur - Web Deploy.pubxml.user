@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnq8UOVYD90iu1+TOKKObVwAAAAACAAAAAAAQZgAAAAEAACAAAAC8mkbELoIYCkh6p0a9SxJ74njOAt/9W0vR98GpkqDQfwAAAAAOgAAAAAIAACAAAAB2/LsWYWMMppnDXYfgiRA8XRLqStDFpXDQAIZL+0jKp4AAAAB9T3VYmsh2iP+8HZJL97hF5Le1IwhH1+4RrcNGUgxVx51Yo9iic8Qwivj0PecOJC2KHomGQmyCsQHihcomuPERjpwPtNhq8yfMs7soQ2GB7VyNeuyzeEX38P9vwz+fMego/YFElXoa38CRkMUjn5LhxBvHMb1slLHhQbzqke2afkAAAADP2gjRJHOFwWbn2xmBu0HQUmIULSmnoeYQYwz1BGI/LDYqk4y0a+L6+p61A8YRqYhC2MqZxKJdcma0m6lIDwdN</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="SpukaAp.Models.spukaContext">
+      <Value>Data Source=tcp:spukaap0nurdbserver.database.windows.net,1433%3bInitial Catalog=SpukaAP0Nur_db%3bUser Id=acmZielDa%40spukaap0nurdbserver%3bPassword=##smaams0022!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
